@@ -12,4 +12,4 @@ function scuberGreetingForFeet(distance) {
   }
 }
 
-function 
+function ternaryCheckCity()
