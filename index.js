@@ -21,3 +21,5 @@ function ternaryCheckCity(destination) {
   }
 }
 
+function 
+
