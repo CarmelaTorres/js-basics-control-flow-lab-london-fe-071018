@@ -2,10 +2,8 @@
 
 function scuberGreetingForFeet()
 
-if scuberGreetingForFeet = 199
+if (A = 199
 
-
-  if (scuberGreetingForFeet <= 400) }
-  blah = "This is on me!";
-  {
+ if (weatherToday === "Rainy") {
+    return `${dogName} did not exercise due to rain`;
 
