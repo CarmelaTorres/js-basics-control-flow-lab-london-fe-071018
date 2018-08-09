@@ -2,7 +2,7 @@
 
 function scuberGreetingForFeet(distance) {
   if (distance <= 199); {
-    return = "This is on me!";
+    return "This is on me!";
   }
   
 }
