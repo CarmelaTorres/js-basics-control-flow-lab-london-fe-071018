@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-
+function
 if scuberGreetingForFeet = 199
 
 
